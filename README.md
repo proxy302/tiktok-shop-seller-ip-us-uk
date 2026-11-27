@@ -45,7 +45,7 @@ It keeps a legitimate shop's connection consistent. It does not lift restriction
 | Looking at product pages and search results as a signed-out US or UK visitor | Rotating residential | $1.50/GB pay as you go; prepaid traffic never expires |
 | Signing in through a rotating IP | Do not | |
 
-Black Friday, 24 Nov to 1 Dec 2026 (UTC+8): static ISP IPs cost $14.00 for 60 days and $18.00 for 90 days (1 to 30 days unchanged), and rotating residential 100, 300 and 500 GB packs come with 25% extra traffic.<!-- bf2026 -->
+Black Friday, 24 Nov to 4 Dec 2026 (UTC+8): static ISP IPs cost $14.00 for 60 days and $18.00 for 90 days (1 to 30 days unchanged), and rotating residential 100, 300 and 500 GB packs come with 25% extra traffic.<!-- bf2026 -->
 
 Static ISP IPs are sold as HTTP or SOCKS5, chosen at purchase; one IP has one protocol. For Chrome and other Chromium browsers choose HTTP, because they cannot log in to a SOCKS5 proxy with a username and password. All prices: [proxy302.com/pricing](https://proxy302.com/pricing/).
 
